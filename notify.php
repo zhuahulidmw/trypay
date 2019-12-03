@@ -3,6 +3,7 @@ include './Base.php';
 /* 
  * 黎明互联
  * https://www.liminghulian.com/
+ 12-3 下午 新增注释
  */
 /*
  *  1.获取数据。支付宝返回的异步数据是post格式的
